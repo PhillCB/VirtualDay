@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 92ca4328e761fa842977ef0e8cb47397
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: KettleBase
+    100004: KettleBody
+    100006: KettleBodyInside
+    100008: KettleButton1
+    100010: KettleButton2
+    100012: KettleCover
+    100014: KettleCoverInside
+    100016: Object057
+    100018: KettleBody 1
+    100020: Body
+    100022: Body001
+    100024: KettleBase002
+    100026: KettleBody001
+    100028: KettleBodyInside001
+    100030: KettleButton003
+    100032: KettleButton004
+    100034: KettleCover001
+    100036: KettleCoverInside001
+    100038: Group042
+    100040: KettleCoverOut
+    100042: KettleCoverOuter
+    100044: Collider1
+    100046: Collider2
+    100048: Collider3
+    100050: Collider4
+    100052: Collider5
+    100054: Colliders
+    100056: KettleCoverOuter002
+    400000: //RootNode
+    400002: KettleBase
+    400004: KettleBody
+    400006: KettleBodyInside
+    400008: KettleButton1
+    400010: KettleButton2
+    400012: KettleCover
+    400014: KettleCoverInside
+    400016: Object057
+    400018: KettleBody 1
+    400020: Body
+    400022: Body001
+    400024: KettleBase002
+    400026: KettleBody001
+    400028: KettleBodyInside001
+    400030: KettleButton003
+    400032: KettleButton004
+    400034: KettleCover001
+    400036: KettleCoverInside001
+    400038: Group042
+    400040: KettleCoverOut
+    400042: KettleCoverOuter
+    400044: Collider1
+    400046: Collider2
+    400048: Collider3
+    400050: Collider4
+    400052: Collider5
+    400054: Colliders
+    400056: KettleCoverOuter002
+    2100000: No Name
+    2100002: 'Material #1823'
+    2100004: Object059_mtl [Object059]
+    2100006: Box049_mtl [Box049]
+    2100008: 'Material #1864'
+    2100010: 'Material #1866'
+    2300000: KettleBase
+    2300002: KettleBodyInside
+    2300004: KettleButton1
+    2300006: KettleButton2
+    2300008: KettleCover
+    2300010: KettleCoverInside
+    2300012: Object057
+    2300014: KettleBody 1
+    2300016: KettleBody
+    2300018: KettleBase002
+    2300020: KettleBody001
+    2300022: KettleBodyInside001
+    2300024: KettleButton003
+    2300026: KettleButton004
+    2300028: KettleCover001
+    2300030: KettleCoverInside001
+    2300032: KettleCoverOut
+    2300034: KettleCoverOuter
+    2300036: Collider1
+    2300038: Collider2
+    2300040: Collider3
+    2300042: Collider4
+    2300044: Collider5
+    2300046: KettleCoverOuter002
+    3300000: KettleBase
+    3300002: KettleBodyInside
+    3300004: KettleButton1
+    3300006: KettleButton2
+    3300008: KettleCover
+    3300010: KettleCoverInside
+    3300012: Object057
+    3300014: KettleBody 1
+    3300016: KettleBody
+    3300018: KettleBase002
+    3300020: KettleBody001
+    3300022: KettleBodyInside001
+    3300024: KettleButton003
+    3300026: KettleButton004
+    3300028: KettleCover001
+    3300030: KettleCoverInside001
+    3300032: KettleCoverOut
+    3300034: KettleCoverOuter
+    3300036: Collider1
+    3300038: Collider2
+    3300040: Collider3
+    3300042: Collider4
+    3300044: Collider5
+    3300046: KettleCoverOuter002
+    4300000: KettleBase
+    4300002: KettleCoverInside
+    4300004: Object057
+    4300006: KettleButton2
+    4300008: KettleButton1
+    4300010: KettleCover
+    4300012: KettleBodyInside
+    4300014: KettleBody
+    4300016: KettleBody001
+    4300018: KettleButton003
+    4300020: KettleButton004
+    4300022: KettleCover001
+    4300024: KettleBodyInside001
+    4300026: KettleCoverInside001
+    4300028: KettleBase002
+    4300030: KettleCoverOut
+    4300032: KettleCoverOuter
+    4300034: Collider3
+    4300036: Collider2
+    4300038: Collider4
+    4300040: Collider5
+    4300042: Collider1
+    4300044: KettleCoverOuter002
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

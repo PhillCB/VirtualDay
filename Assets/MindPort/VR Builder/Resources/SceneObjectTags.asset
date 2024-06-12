@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03bbdf34419fb2843a3ebd1a879d4632, type: 3}
+  m_Name: SceneObjectTags
+  m_EditorClassIdentifier: 
+  tags:
+  - label: Cereals
+    guidString: 565b9f36-78d4-4dc1-a767-cf1314fb13b7
+  - label: Milk
+    guidString: 925a65c1-a7c4-42a9-a3ad-4a7f5178a62c
+  - label: Burger
+    guidString: 90ae30db-9362-4c74-84e8-55100451cd4f
+  - label: Mailbox
+    guidString: d0d91df9-e2b2-43aa-b231-fe7a0a2fce4b
+  - label: Food
+    guidString: 65ee16e7-9b28-4acf-b962-d7c13ff4a198
+  - label: Salmon
+    guidString: 97aa9367-cb05-4ad3-897b-d1c9f8f6ee49
+  - label: Generic
+    guidString: 752818a7-b3db-484b-86df-fc179c0d4849
+  - label: Sandwhich
+    guidString: b654e42f-c542-4886-9193-b4f59f547875
